@@ -32,7 +32,7 @@ tar -xzf plotForAnnotation.tar.gz
 ### 2. Clone this repository and create your branch
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/PFLeget/miniDonutsAnnotation.git
 cd miniDonutsAnnotation
 
 # Create your branch with your name and batch file
