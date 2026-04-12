@@ -86,8 +86,8 @@ Then create a Pull Request on GitHub.
 
 | Batch | Annotator | Status |
 |-------|-----------|--------|
-| batch_01.csv | PFLeget | IN PROGRESS |
-| batch_02.csv | | |
+| batch_01.csv | PFLeget | DONE |
+| batch_02.csv | PFLeget | IN PROGRESS |
 | batch_03.csv | | |
 | batch_04.csv | | |
 | batch_05.csv | | |
